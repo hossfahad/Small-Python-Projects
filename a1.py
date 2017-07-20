@@ -1,3 +1,6 @@
+#24 Hour UTC - Beginner Python Project 
+#A universal time clock representing different time zones, following seconds, minutes and hours.
+
 def seconds_difference(time_1, time_2):
     ''' (time_1, time_2) -> number
 
