@@ -1,2 +1,3 @@
 # Python-utc-essentials
-A 24-hour time clock representing seconds, minutes, hours. 
+
+My first python project - A 24-hour universal time clock representing seconds, minutes, hours in different time zones.
